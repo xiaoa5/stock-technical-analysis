@@ -1,1 +1,3 @@
 # stock-technical-analysis
+
+more details will be added soon ...
